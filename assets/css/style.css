@@ -9,9 +9,10 @@
   border-radius: 10px;
   overflow: hidden;
   z-index: 1;
-  height: 415px;
-  width: 260px;
+  height: 100%; /* test */
+  width: 100%;  /* test */
 }
+
 
 *{
 	-webkit-box-sizing:border-box;
